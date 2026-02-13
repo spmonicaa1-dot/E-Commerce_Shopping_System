@@ -5,6 +5,8 @@ The E-Shop Order Management System is a Java-based web application designed to m
 
 The system is developed using the MVC (Model-View-Controller) design pattern to maintain clear separation between business logic, user interface, and data access layers.
 
+---
+
 ## 🚀 Key Features
 ✔ Add New Order  
 ✔ View Individual Order Details  
@@ -12,6 +14,8 @@ The system is developed using the MVC (Model-View-Controller) design pattern to 
 ✔ Input Validation  
 ✔ Database Integration  
 ✔ Structured MVC Architecture  
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -23,6 +27,8 @@ The system is developed using the MVC (Model-View-Controller) design pattern to 
 | Connectivity | JDBC |
 | Server | Apache Tomcat |
 | IDE | Eclipse |
+
+---
 
 ## 🧩 System Architecture
 
@@ -39,6 +45,8 @@ The project follows MVC Architecture:
 
 ### 🔹 Controller Layer
 - MainServlet – Handles client requests and navigation  
+
+---
 
 ## 📂 Project Modules
 
@@ -61,6 +69,8 @@ Includes UI pages such as:
 - View Order Page  
 - Display Pages  
 - Success & Error Pages  
+
+---
 
 ## 🗄️ Database Schema
 
@@ -86,6 +96,8 @@ Includes UI pages such as:
 4. Deploy project in Apache Tomcat Server
 5. Run `menu.html` to start the application
 
+---
+
 ## 🔮 Future Enhancements
 - Order Update Functionality
 - Order Deletion Feature
@@ -93,8 +105,12 @@ Includes UI pages such as:
 - Improved UI Design
 - REST API Implementation
 
+---
+
 ## 👩‍💻 Author
 **Monicaa**
+
+---
 
 ## 📖 Learning Outcome
 This project demonstrates practical implementation of:
@@ -102,6 +118,7 @@ This project demonstrates practical implementation of:
 - MVC Design Pattern
 - JDBC Database Connectivity
 - Servlet and JSP Integration
+
 
 <img width="663" height="604" alt="image" src="https://github.com/user-attachments/assets/9cce58e4-6385-440a-b2fa-d7318f30ca4b" />
 <img width="650" height="700" alt="image" src="https://github.com/user-attachments/assets/403aced4-cc84-431b-bb90-646e9b661781" />
